@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test10030</string>
+    <string name="world_topo_service">"file:///mnt/sdcard/Parcels/layers"</string>
+    <string name="tile">"file:///mnt/sdcard/Parcels/beijing.tpk"</string>
+
+    <string name="brest_buildings">
+        http://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Brest/SceneServer</string>
+</resources>
